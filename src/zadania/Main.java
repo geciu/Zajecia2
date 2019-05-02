@@ -21,9 +21,13 @@ public class Main {
         //Zadanie 4
         System.out.println("Zadanie 4:");
         Zero zero = new Zero();
-*/
+
         //Zadanie 5
         System.out.println("Zadanie 5:");
         ZadPiate nowe = new ZadPiate();
+*/
+        //Zadanie 6
+        System.out.println("Zadanie 6:");
+        Gra gra = new Gra();
     }
 }

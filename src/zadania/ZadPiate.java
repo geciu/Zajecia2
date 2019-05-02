@@ -14,7 +14,8 @@ public class ZadPiate {
         double min = tablica[0];
         double srednia;
 
-        System.out.println("Podaj liczbę. Podanie liczby '0' spowoduje zaończenie pracy programu");
+        System.out.println("Podaj liczbę. Podanie liczby '0' spowoduje zaończenie pracy programu" +
+                " oraz wyswietlenie wartości max, min oraz ich sredniej arytmetycznej");
         double liczba = scan.nextDouble();
         double liczba2;
 

@@ -16,10 +16,14 @@ public class Main {
         //Zadanie 3
         System.out.println("Zadanie 3:");
         Potega potega = new Potega();
-*/
+
 
         //Zadanie 4
         System.out.println("Zadanie 4:");
         Zero zero = new Zero();
+*/
+        //Zadanie 5
+        System.out.println("Zadanie 5:");
+        ZadPiate nowe = new ZadPiate();
     }
 }

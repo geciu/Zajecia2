@@ -25,9 +25,18 @@ public class Main {
         //Zadanie 5
         System.out.println("Zadanie 5:");
         ZadPiate nowe = new ZadPiate();
-*/
+
         //Zadanie 6
         System.out.println("Zadanie 6:");
         Gra gra = new Gra();
+
+        //Zadanie 7
+        System.out.println("Zadanie 7:");
+        Rysowanie rysowanie = new Rysowanie();
+
+*/
+        //Zadanie 8
+        System.out.println("Zadanie 8:");
+        Choinka choinka = new Choinka();
     }
 }

@@ -7,16 +7,13 @@ public class Main {
         System.out.println("Zadanie 1:");
         Niewieksze nowy = new Niewieksze();
 
-
         //Zadanie 2
         System.out.println("Zadanie 2:");
         Ciag ciag = new Ciag();
 
-
         //Zadanie 3
         System.out.println("Zadanie 3:");
         Potega potega = new Potega();
-
 
         //Zadanie 4
         System.out.println("Zadanie 4:");
@@ -34,9 +31,12 @@ public class Main {
         System.out.println("Zadanie 7:");
         Rysowanie rysowanie = new Rysowanie();
 
-*/
         //Zadanie 8
         System.out.println("Zadanie 8:");
         Choinka choinka = new Choinka();
+*/
+        //Zadanie 9
+        System.out.println("Zadanie 9:");
+        Suma suma = new Suma();
     }
 }

@@ -34,9 +34,13 @@ public class Main {
         //Zadanie 8
         System.out.println("Zadanie 8:");
         Choinka choinka = new Choinka();
-*/
+
         //Zadanie 9
         System.out.println("Zadanie 9:");
         Suma suma = new Suma();
+*/
+        //Zadanie 10
+        System.out.println("Zadanie 10:");
+        Dzielniki dzielniki = new Dzielniki();
     }
 }

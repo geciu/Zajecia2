@@ -38,9 +38,14 @@ public class Main {
         //Zadanie 9
         System.out.println("Zadanie 9:");
         Suma suma = new Suma();
-*/
+
         //Zadanie 10
         System.out.println("Zadanie 10:");
         Dzielniki dzielniki = new Dzielniki();
+*/
+        //Zadanie 11
+        System.out.println("Zadanie 11:");
+        Pierwsza pierwsza = new Pierwsza();
+
     }
 }

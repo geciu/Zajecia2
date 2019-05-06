@@ -2,7 +2,7 @@ package zadania;
 public class Main {
 
     public static void main(String[] args) {
-/*
+
         //Zadanie 1
         System.out.println("Zadanie 1:");
         Niewieksze nowy = new Niewieksze();
@@ -42,7 +42,7 @@ public class Main {
         //Zadanie 10
         System.out.println("Zadanie 10:");
         Dzielniki dzielniki = new Dzielniki();
-*/
+
         //Zadanie 11
         System.out.println("Zadanie 11:");
         Pierwsza pierwsza = new Pierwsza();
